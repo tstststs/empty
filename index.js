@@ -1,2 +1,2 @@
-var empty = require('lib/empty')
+var empty = require('./lib/empty')
 module.exports = empty

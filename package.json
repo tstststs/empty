@@ -1,6 +1,6 @@
 {
   "name": "st-empty",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A empty checking utility",
   "main": "index.js",
   "scripts": {
