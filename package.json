@@ -1,5 +1,5 @@
 {
-  "name": "empty",
+  "name": "st-empty",
   "version": "1.0.0",
   "description": "A empty checking utility",
   "main": "index.js",
