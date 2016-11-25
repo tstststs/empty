@@ -1,2 +1,2 @@
-import empty from 'lib/empty'
+var empty = require('lib/empty')
 export default empty
